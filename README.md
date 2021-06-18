@@ -21,5 +21,5 @@ You can fetch the trained model from the models directory.
 
     `streamlit run app.py`
 
-> Date Created: 28-08-2020"# HCD" 
+ 
 "# HCD" 
